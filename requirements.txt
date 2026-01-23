@@ -1,6 +1,7 @@
 tensorflow
 pandas
-numpy=1.26.4
+numpy
 scikit-learn
-streamlit=1.32.0
+streamlit
+
 
